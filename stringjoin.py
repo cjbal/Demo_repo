@@ -14,5 +14,5 @@ lateststr=newstring.split()
 print(lateststr)
 print(lateststr[0])
 strung = "Punjab is Great"
-strip_text = strung.strip(strung)
+strip_text = strung.strip()
 print(strip_text)
