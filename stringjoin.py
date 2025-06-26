@@ -13,3 +13,6 @@ print(newstring)
 lateststr=newstring.split()
 print(lateststr)
 print(lateststr[0])
+strung = "Punjab is Great"
+strip_text = strung.strip(strung)
+print(strip_text)
