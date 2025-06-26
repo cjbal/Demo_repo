@@ -16,3 +16,8 @@ print(lateststr[0])
 strung = "  Punjab is Great  "
 strip_text = strung.strip()
 print(strip_text)
+laststring = "Bharat is Great"
+newstr2 = "is"
+if newstr2 in laststring
+   print ("Punjab" + "and" + laststring)
+   
