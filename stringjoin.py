@@ -19,5 +19,5 @@ print(strip_text)
 laststring = "Bharat is Great"
 newstr2 = "is"
 if newstr2 in laststring :
-   print ("Punjab" + "and" + laststring)
+   print ("Punjab" + " and " + laststring)
 
