@@ -1,5 +1,5 @@
 import re
 text = "Pattern Bole Soh Nihal"
-pattern = " "
+pattern = r" "
 split-result = re.split(pattern, text)
 print(split-result)
